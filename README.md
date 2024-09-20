@@ -2,7 +2,7 @@
 
 This respository consists of the code, data and links to data to estimate the life expectency of age group less than 1 year old in USA.  
 
-The source of the life expectency data is [IHME](https://ghdx.healthdata.org/record/ihme-data/united-states-causes-death-life-expectancy-by-county-race-ethnicity-2000-2019). 
+The source of the life expectency data is [IHME](https://ghdx.healthdata.org/record/ihme-data/united-states-causes-death-life-expectancy-by-county-race-ethnicity-2000-2019). More about it in the assets folder.
 
 The life expectency is estimated using a set of variables from 3 different different sources of data:
 
