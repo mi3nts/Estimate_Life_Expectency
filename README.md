@@ -12,4 +12,6 @@ The life expectency is estimated using a set of variables from 3 different diffe
 
 3. Set of demographic data from ACS. More about it in the demographic directory.
 
+All_Years.ipynb notebook extracts the total life expectency of age group less than 1 year old for 20 years of data. 
+Single_Year.ipynb extracts the total life expectency of age group less than 1 year old for a single year.
 
