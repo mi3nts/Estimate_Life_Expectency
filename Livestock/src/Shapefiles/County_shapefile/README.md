@@ -1,1 +1,2 @@
-
+This folder consists of the shapefile for the counties in the USA. Go to the link : https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html . Select "More" and then select "2010". Under "County" download the "gz_2010_us_050_00_500k.zip" file. The file will consist of 5 files with the name "gz_2010_us_050_00_500k". The extension of the files will be .dbf, .prj, .shp, .shx, .xml.
+The files must be unzipped and all the files MUST be in the folder not just the .shp file for the shape file to load.
