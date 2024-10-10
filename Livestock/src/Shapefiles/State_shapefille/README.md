@@ -1,1 +1,1 @@
-
+This folder consists of the shapefile for the states (and probably its territories) of the USA. Go to the link : https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html . Then under states download the cb_2018_us_state_500k.zip file. The zip file will consist of 7 files. All the files MUST be in this folder not just for the file with .shp extension for the shape file to work. Each of the 7 files will have the name cb_2018_us_state_500k with 7 different extension cpg, dbf, prj, shp, shp.ea.isp.xml, shp.iso.xml and shx.
