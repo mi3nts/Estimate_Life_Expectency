@@ -1,3 +1,5 @@
+## Livestock data processing
+
 This document provides a comprehensive overview of the livestock data processing and aggregation pipeline. The livestock data is sourced from Harvard Dataverse for 2010 and 2015, and from FAO for 2020. Detailed sources are provided below:
 
 Data Sources:
@@ -63,7 +65,7 @@ Each output dataset is stored in CSV format, with columns indicating latitude, l
 This processed dataset serves as a comprehensive resource for analyzing livestock distribution trends across multiple years at varying administrative levels.
 
 
-
+## Life Expectancy and Livestock data processing 
 
 This document outlines the steps taken to merge livestock data with life expectancy data at the county level, creating a comprehensive dataset that is well-prepared for machine learning (ML) applications. The primary objective of this work is to align the datasets in a structured format, enabling exploratory data analysis and machine learning, with a focus on understanding trends and potential correlations between livestock density and life expectancy at a granular level.
 
